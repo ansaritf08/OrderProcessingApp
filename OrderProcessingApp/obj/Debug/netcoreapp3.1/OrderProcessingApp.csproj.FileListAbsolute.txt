@@ -1,0 +1,9 @@
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.csprojAssemblyReference.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.AssemblyInfoInputs.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.AssemblyInfo.cs
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\OrderProcessingApp.RazorTargetAssemblyInfo.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\staticwebassets\OrderProcessingApp.StaticWebAssets.Manifest.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp\obj\Debug\netcoreapp3.1\staticwebassets\OrderProcessingApp.StaticWebAssets.xml

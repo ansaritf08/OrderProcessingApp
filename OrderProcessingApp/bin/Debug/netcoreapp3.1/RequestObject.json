@@ -1,0 +1,37 @@
+{
+  "agent": {
+    "AgentName": null,
+    "AgentAge": null,
+    "Address": null,
+    "PaymentMade": null,
+    "ProductNumber": null,
+    "Comission": null
+  },
+  "bill": {
+    "BillNumber": null,
+    "BillName": null,
+    "BillAddress": null,
+    "BillMobileNumber": null,
+    "FirstAid": null
+  },
+  "customer": {
+    "CustName": null,
+    "CustAddress": null,
+    "Email": null,
+    "AddFirstAid": false,
+    "Membership": null
+  },
+  "payment": {
+    "CardNumber": null,
+    "Name": null,
+    "CVV": 0,
+    "DateofExp": null,
+    "PaymentType": null
+  },
+  "product": {
+    "ProductName": null,
+    "ProductDesc": null,
+    "ProductNum": null,
+    "ProductType": null
+  }
+}

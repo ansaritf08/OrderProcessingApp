@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OrderProcessingApp.Repository/1.0.0": {
+        "dependencies": {
+          "DataProcessingApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "OrderProcessingApp.Repository.dll": {}
+        }
+      },
+      "DataProcessingApp.Domain/1.0.0": {
+        "runtime": {
+          "DataProcessingApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderProcessingApp.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProcessingApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

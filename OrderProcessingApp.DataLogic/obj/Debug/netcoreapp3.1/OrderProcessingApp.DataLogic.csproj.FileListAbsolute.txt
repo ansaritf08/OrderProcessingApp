@@ -1,0 +1,13 @@
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.deps.json
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.AssemblyInfoInputs.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.AssemblyInfo.cs
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.csprojAssemblyReference.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.csproj.CopyComplete
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb

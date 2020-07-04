@@ -1,0 +1,15 @@
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.deps.json
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.csprojAssemblyReference.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.AssemblyInfoInputs.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.AssemblyInfo.cs
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.BusinessLogic.csproj.CopyComplete
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.BusinessLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb

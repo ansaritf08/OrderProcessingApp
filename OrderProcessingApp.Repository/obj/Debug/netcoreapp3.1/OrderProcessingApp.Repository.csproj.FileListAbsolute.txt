@@ -1,0 +1,11 @@
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.deps.json
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.csprojAssemblyReference.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.AssemblyInfoInputs.cache
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.AssemblyInfo.cs
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.csproj.CopyComplete
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb
