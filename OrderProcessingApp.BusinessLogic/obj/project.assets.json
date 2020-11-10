@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj",
+      "projectUniqueName": "D:\\MedicalProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj",
       "projectName": "OrderProcessingApp.BusinessLogic",
-      "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj",
+      "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\tarranum.ansari\\.nuget\\packages\\",
-      "outputPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.BusinessLogic\\obj\\",
+      "outputPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -123,11 +123,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj"
+            "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj"
             },
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj"
+            "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj"
             }
           }
         }

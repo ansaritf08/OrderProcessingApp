@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj",
+      "projectUniqueName": "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj",
       "projectName": "DataProcessingApp.Domain",
-      "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj",
+      "projectPath": "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj",
       "packagesPath": "C:\\Users\\tarranum.ansari\\.nuget\\packages\\",
-      "outputPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\obj\\",
+      "outputPath": "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

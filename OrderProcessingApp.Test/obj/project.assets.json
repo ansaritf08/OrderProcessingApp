@@ -5646,11 +5646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Test\\OrderProcessingApp.Test.csproj",
+      "projectUniqueName": "D:\\MedicalProcessingApp\\OrderProcessingApp.Test\\OrderProcessingApp.Test.csproj",
       "projectName": "OrderProcessingApp.Test",
-      "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Test\\OrderProcessingApp.Test.csproj",
+      "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.Test\\OrderProcessingApp.Test.csproj",
       "packagesPath": "C:\\Users\\tarranum.ansari\\.nuget\\packages\\",
-      "outputPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Test\\obj\\",
+      "outputPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

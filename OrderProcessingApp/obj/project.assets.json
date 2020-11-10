@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.API.csproj",
+      "projectUniqueName": "D:\\MedicalProcessingApp\\OrderProcessingApp\\OrderProcessingApp.API.csproj",
       "projectName": "OrderProcessingApp.API",
-      "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.API.csproj",
+      "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp\\OrderProcessingApp.API.csproj",
       "packagesPath": "C:\\Users\\tarranum.ansari\\.nuget\\packages\\",
-      "outputPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp\\obj\\",
+      "outputPath": "D:\\MedicalProcessingApp\\OrderProcessingApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -256,17 +256,17 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj"
+            "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj"
             },
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj"
+            "D:\\MedicalProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.BusinessLogic\\OrderProcessingApp.BusinessLogic.csproj"
             },
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj"
+            "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj"
             },
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj"
+            "D:\\MedicalProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj"
             }
           }
         }

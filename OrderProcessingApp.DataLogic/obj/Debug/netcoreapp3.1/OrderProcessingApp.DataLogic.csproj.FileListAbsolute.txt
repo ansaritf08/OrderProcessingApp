@@ -11,3 +11,16 @@ D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\
 D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.csproj.CopyComplete
 D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
 D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.deps.json
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.dll
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.csprojAssemblyReference.cache
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.AssemblyInfoInputs.cache
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.AssemblyInfo.cs
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.csproj.CopyComplete
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.dll
+D:\MedicalProcessingApp\OrderProcessingApp.DataLogic\obj\Debug\netcoreapp3.1\OrderProcessingApp.DataLogic.pdb

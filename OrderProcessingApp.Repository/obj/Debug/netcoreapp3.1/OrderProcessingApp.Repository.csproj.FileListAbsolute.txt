@@ -9,3 +9,14 @@ D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug
 D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.csproj.CopyComplete
 D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
 D:\OrderProcessingApp\OrderProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.deps.json
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.csprojAssemblyReference.cache
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.AssemblyInfoInputs.cache
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.AssemblyInfo.cs
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.csproj.CopyComplete
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.dll
+D:\MedicalProcessingApp\OrderProcessingApp.Repository\obj\Debug\netcoreapp3.1\OrderProcessingApp.Repository.pdb

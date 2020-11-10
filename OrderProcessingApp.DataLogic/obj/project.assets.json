@@ -77,11 +77,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj",
+      "projectUniqueName": "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj",
       "projectName": "OrderProcessingApp.DataLogic",
-      "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj",
+      "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\OrderProcessingApp.DataLogic.csproj",
       "packagesPath": "C:\\Users\\tarranum.ansari\\.nuget\\packages\\",
-      "outputPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.DataLogic\\obj\\",
+      "outputPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.DataLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -103,11 +103,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj"
+            "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\DataProcessingApp.Domain\\DataProcessingApp.Domain.csproj"
             },
-            "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj": {
-              "projectPath": "D:\\OrderProcessingApp\\OrderProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj"
+            "D:\\MedicalProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj": {
+              "projectPath": "D:\\MedicalProcessingApp\\OrderProcessingApp.Repository\\OrderProcessingApp.Repository.csproj"
             }
           }
         }

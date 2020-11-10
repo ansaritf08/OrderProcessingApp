@@ -6,3 +6,11 @@ D:\OrderProcessingApp\OrderProcessingApp\DataProcessingApp.Domain\obj\Debug\netc
 D:\OrderProcessingApp\OrderProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.AssemblyInfo.cs
 D:\OrderProcessingApp\OrderProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
 D:\OrderProcessingApp\OrderProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\MedicalProcessingApp\DataProcessingApp.Domain\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.deps.json
+D:\MedicalProcessingApp\DataProcessingApp.Domain\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\MedicalProcessingApp\DataProcessingApp.Domain\bin\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
+D:\MedicalProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.csprojAssemblyReference.cache
+D:\MedicalProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.AssemblyInfoInputs.cache
+D:\MedicalProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.AssemblyInfo.cs
+D:\MedicalProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.dll
+D:\MedicalProcessingApp\DataProcessingApp.Domain\obj\Debug\netcoreapp3.1\DataProcessingApp.Domain.pdb
